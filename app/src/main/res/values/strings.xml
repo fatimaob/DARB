@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DARB</string>
+    <string name="submit"><u>Submitted Forms</u></string>
+    <string name="acc_id"><b>Accident Id</b></string>
+    <string name="date"><b>Date</b></string>
+    <string name="time"><b>Time</b></string>
+
+</resources>
